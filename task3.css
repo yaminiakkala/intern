@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(238, 212, 239);
+}
+.container {
+    width: 100%;
+    margin-left:35%;
+    color: rgb(36, 165, 240);
+    margin-top: 15%;
+}
+.tx1{
+    border-color: black;
+    border-radius: 3cm;
+    background-color: rgb(126, 201, 222);
+    height: 20px;c
+}
+.row{
+    margin-left:3cm ;
+}
+
